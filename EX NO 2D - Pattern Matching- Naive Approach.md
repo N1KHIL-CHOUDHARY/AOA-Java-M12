@@ -1,6 +1,6 @@
 
 # EX 2D Pattern Matching using Naive Approach.
-## DATE:04/09/25
+## DATE:
 ## AIM:
 To write a Java program to for given constraints.
 Given text string with length n and a pattern with length m, the task is to prints all occurrences of pattern in text.
@@ -38,8 +38,8 @@ Stop after scanning the entire text.
 ```
 /*
 Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138
+Developed by: Nikhil H
+Register Number: 212224040219 
 */
 
 import java.util.Scanner;
